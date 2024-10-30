@@ -1,6 +1,7 @@
 # this allow us to use code from
 # the open-source pygame library
 # throughout this file
+#does it work? git?
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
