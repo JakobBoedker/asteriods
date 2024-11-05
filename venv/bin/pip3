@@ -1,4 +1,4 @@
-#!/home/jakob/workspace/github.com/jakobboedker/asteriods/venv/bin/python3
+#!/home/jakob/workspace/github.com/jakobboedker/asteriods/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
